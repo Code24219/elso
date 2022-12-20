@@ -1,2 +1,2 @@
-1# Ez a föcím 
-2## ez pedig al cím
+# Ez a föcím 
+## ez pedig al cím
